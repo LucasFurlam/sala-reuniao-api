@@ -2,4 +2,9 @@
 
 Api desenvolvida para realizar criação, edição, deleção e alteração de salas de reuniões.
 
-Projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.29.
+### Stack Utilizada
+* Java 8
+* Spring Boot
+* Spring Data Jpa
+* Spring Devtools
+* H2 database
